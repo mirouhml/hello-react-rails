@@ -1,5 +1,4 @@
 class ApiController < ApplicationController
-  
   include Response
 
   def random_greeting

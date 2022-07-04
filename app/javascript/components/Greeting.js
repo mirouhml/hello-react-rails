@@ -11,7 +11,7 @@ const Greeting = () => {
 
   return (
     <div>
-      <h1>Greeting: {greeting}</h1>
+      <h1>Greeting: {greeting === '' ? '...loading' : greeting}</h1>
     </div>
   );
 };
