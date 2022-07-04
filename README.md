@@ -6,6 +6,7 @@ This is a simple project to use React as a frontend and consume an API made by R
 
 - Run `bundle install` to get the dependencies.
 - Run `rails db:create:all` to create all databases.
+- Run `rails db:seed` to fill the database.
 - Run `rails s` to launch the website.
 
 ## About me
